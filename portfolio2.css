@@ -14,7 +14,6 @@ h1 {
 
 main {
 	margin-left: 125px;
-	margin-right: 125px;
 }
 
 h4 {
@@ -29,5 +28,4 @@ body {
 #eersteFoto {
 	width: 100%;
 	max-width: 800px;
-	margin-bottom: 5px;
 }
